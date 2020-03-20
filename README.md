@@ -14,3 +14,15 @@
 <b><p>This project will not compile and run until you have created a new Firebase project at 
 <a href='https://firebase.google.com' target='_blank'>firebase.google.com</a> and you've added a google-services.json file to the app folder.</p></b>
 <p>This is very easy to do, just follow the instructions <a href='https://console.firebase.google.com/' target='_blank'>here</a>.
+  
+  <div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
+</div>
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
+</div>
+<div style="dispaly:flex">
+    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
+</div>
