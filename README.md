@@ -16,13 +16,13 @@
 <p>This is very easy to do, just follow the instructions <a href='https://console.firebase.google.com/' target='_blank'>here</a>.
   
   <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
+    <img src="https://github.com/Kee-team/chat-rooms/blob/master/arts/1.jpg" width="45%">
+    <img src="https://github.com/Kee-team/chat-rooms/blob/master/arts/2.jpg" width="45%">
 </div>
 <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i2.png" width="45%">
+    <img src="https://github.com/Kee-team/chat-rooms/blob/master/arts/3.jpg" width="45%">
+    <img src="https://github.com/Kee-team/chat-rooms/blob/master/arts/4.jpg" width="45%">
 </div>
 <div style="dispaly:flex">
-    <img src="https://github.com/Kee-team/unity_setup/blob/master/Git images/i1.png" width="45%">
+    <img src="https://github.com/Kee-team/chat-rooms/blob/master/arts/5.jpg" width="45%">
 </div>
