@@ -1,4 +1,4 @@
-<h1ChatRoomsp</h1>
+<h1>ChatRoomsp</h1>
 <h3>What is this project?</h3>
 <p>This is a simple real-time chat application built using Firebase Authentication and Firestore.</p>
 <p>I built it mostly to use as a starting-point for other applications that have a real-time chat portion.</p>
